@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463357142 source:c:\users\suleyman\desktop\codeblock uygulamalar\djikstra\main.cpp
+	<stdio.h>
+	<limits.h>
+	<iostream>
+
